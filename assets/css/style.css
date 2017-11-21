@@ -266,7 +266,11 @@ input[type=submit] {
     width: 100%;
     max-width: none;
   }
-
+  .sidebar {
+    float: left;
+    width: 100%;
+    max-width: none;
+  }
   .main-section {
     width: 100%;
     max-width: none;
